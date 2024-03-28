@@ -7,3 +7,5 @@ The primary objective of this project is to identify factors that predict loan d
 *Identify patterns indicating customers likely to face difficulty in repaying loans.
 *Inform decisions such as loan denial, reducing loan amounts, or adjusting interest rates for risky applicants.
 *Enhance risk assessment and improve the accuracy of loan approval processes.
+
+Excel File Link -- https://docs.google.com/spreadsheets/d/1cquNRqZVHuITJp_hpYnZbDyP4OpI_-Qr/edit?usp=sharing&ouid=104826659982370286770&rtpof=true&sd=true
